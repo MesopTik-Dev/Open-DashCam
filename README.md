@@ -1,5 +1,5 @@
 # Open DashCam
-OpenDashcam is an open-source Android app that turns old smartphones into smart dashcams.  
+Open DashCam is an open-source Android app that turns old smartphones into smart dashcams.  
 It supports loop recording, storage management, and event protection.  
 Future releases will add ADAS (collision and lane departure warnings) using on-device AI.
 
